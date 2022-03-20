@@ -1,0 +1,18 @@
+table, td, th {
+  border: 1px solid black;
+  width:50px
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 20%;
+}
+
+th {
+  height: 70px;
+  background-color: blue;
+}
+.red{
+    background-color:red
+}
