@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/metrix-game/static/css/main.cea26f03.css",
+    "main.js": "/metrix-game/static/js/main.65f8b660.js",
+    "static/js/787.e577274b.chunk.js": "/metrix-game/static/js/787.e577274b.chunk.js",
+    "index.html": "/metrix-game/index.html",
+    "main.cea26f03.css.map": "/metrix-game/static/css/main.cea26f03.css.map",
+    "main.65f8b660.js.map": "/metrix-game/static/js/main.65f8b660.js.map",
+    "787.e577274b.chunk.js.map": "/metrix-game/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea26f03.css",
+    "static/js/main.65f8b660.js"
+  ]
+}
